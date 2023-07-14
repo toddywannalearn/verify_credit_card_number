@@ -1,4 +1,8 @@
-DESAFIO MASTERCLASS HARD
+# Verify Credit Card Number
+
+This application checks if a given credit card number is valid or not using Dart.
+
+## DESAFIO MASTERCLASS HARD
 
 Faça uma função que receba os números de um cartão de crédito e retorne se o número é válido ou não (Bool).
 
